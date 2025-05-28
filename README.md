@@ -1,12 +1,12 @@
 <header>
 
-# Hell ashwaq o GitHub Actions
+# Hell ashwaq o GitHub Actions 
 
 _Create and run a GitHub Actions workflow._
 
 </header>jjjj
 
-## Step 5: Trigger the workflow
+## Step 5: Trigger the workflow :smile:_
 
 _You've now added a fully functioning workflow to your repository! :smile:_
 
